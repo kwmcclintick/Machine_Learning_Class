@@ -13,7 +13,10 @@ projects and homework assignments completed by kyle mcclintick
 - 2 layer NN
 # Pytorch Projects
 ## Project 4
--
+- Softmax regression
+- CNN
+- RNN
+- LSTM RNN
 ## Project 5
 -
 ## Project 6
