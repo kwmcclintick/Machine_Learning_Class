@@ -18,6 +18,13 @@ projects and homework assignments completed by kyle mcclintick
 - RNN
 - LSTM RNN
 ## Project 5
--
+- Multi-armed bandit
+- Contextual bandit
+- Q
+- Deep Q
+- Policy Net
 ## Project 6
--
+- Naive Bayes classifier
+- GMM EM
+- LDA with variational EM
+- LDA with Gibbs sampling
